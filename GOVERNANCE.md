@@ -5,7 +5,7 @@ This document defines the project governance for FATE.
 The FATE community adheres to the following principles:
 
 - Open: FATE is an open source project.
-- Welcoming and respectful: See[ Code of Conduct](https://github.com/FederatedAI/community/blob/master/CODE_OF_CONDUCT.md). 
+- Welcoming and respectful: See[ Code of Conduct](./CODE_OF_CONDUCT.md). 
 - Transparent and accessible: Work and collaboration are done in public.
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 - Vision: Benefit the ecosystem of federated AI solution providers, users and researchers, focused on federated AI use cases that will work across industries.
@@ -51,7 +51,7 @@ The proposal process is the process for reviewing a proposal and reaching an agr
 The proposal should be documented as a separated markdown file pushed to the root of the `proposals` folder in the community repository via PR. The name of the file should follow the name pattern `design/shortname.md`.
 Use the Proposal Template as a starting point.
 
-**Proposal lifecycle**
+**Proposal lifecycle**  
 The proposal PR can be marked with different status labels to represent the status of the proposal:
 
 - **New**: Proposal is just created
@@ -90,9 +90,9 @@ The `Federated AI Ecosystem` organization is open to receive new sub-projects un
 
 The submission process starts a Pull Request or Issue with the required information mentioned above. Once a project is accepted, it's considered as a Federated AI Ecosystem sub-project under the umbrella of Federated AI Ecosystem.
 ## Contributing ##
-Please see [CONTRIBUTING.md](https://github.com/goharbor/community/blob/master/CONTRIBUTING.md) for general contribution guidelines
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for general contribution guidelines
 ## Code of Conduct ##
-FATE adhere to the [Code of Conduct](https://github.com/goharbor/community/blob/master/CODE_OF_CONDUCT.md).
+FATE adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 # Updating Governance #
 All substantive changes in Governance require total Maintainership vote supported by 1/2 majority of existing maintainers.
 
