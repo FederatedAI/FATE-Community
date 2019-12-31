@@ -1,4 +1,4 @@
-# Proposal: `TITLE` #
+# Proposal: &lt;`TITLE`&gt; #
 Author: <Your Name , Co-Author Name / github username>
 
 Discussion: Link do discussion issue, if applicable
