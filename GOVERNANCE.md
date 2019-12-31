@@ -49,7 +49,7 @@ The proposal process is the process for reviewing a proposal and reaching an agr
 **Design Documents**
 
 The proposal should be documented as a separated markdown file pushed to the root of the `proposals` folder in the community repository via PR. The name of the file should follow the name pattern `design/shortname.md`.
-Use the [Proposal_Template](./PROPOSAL_TEMPLATE.md) as a starting point.
+Use the [Proposal Template](./PROPOSAL_TEMPLATE.md) as a starting point.
 
 **Proposal lifecycle**  
 The proposal PR can be marked with different status labels to represent the status of the proposal:
