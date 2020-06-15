@@ -12,5 +12,6 @@ responsibilities.
 | Sookie Qin      | [sookieqin](https://github.com/sookieqin)        |   Tencent       | Data Intensive Applications, Big Data Architecture           | 
 | Zotrseeew Ma    | [mgqa34](https://github.com/mgqa34)              |   WeBank        |  Machine Learning,Deep Learning,Federated Learning           | 
 | Jarvis Zeng     | [zengjice](https://github.com/zengjice)          |   WeBank        | Big Data Architecture, Machine Learning, Federated Learning  | 
+| ZHOU Yongkai     |  [vistakk](https://github.com/vistakk)          |   China UnionPay | Cloud Native, Data Intelligence, Security  | 
 
 
