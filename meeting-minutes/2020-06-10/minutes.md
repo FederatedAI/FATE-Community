@@ -5,14 +5,14 @@ FATE LTS version & China Unionpay joins FATE TSC
 
 ## Attendees Present
 
-Toby Chen@WeBank(Tianjian)
-Dylan Fan@WeBank(dylan-fan)
-Henry Zhang@VMware(hainingzhang)
-Sookie Qin@Tencent(sookieqin)
-Zotrseeew Ma@WeBank(mgqa34)
-Jarvis Zeng@WeBank(zengjice)
-Layne Peng@VMware
-Clarkieliu@Tencent
+* Toby Chen@WeBank(Tianjian)
+* Dylan Fan@WeBank(dylan-fan)
+* Henry Zhang@VMware(hainingzhang)
+* Sookie Qin@Tencent(sookieqin)
+* Zotrseeew Ma@WeBank(mgqa34)
+* Jarvis Zeng@WeBank(zengjice)
+* Layne Peng@VMware
+* Clarkieliu@Tencent
 
 ## Minutes
 
