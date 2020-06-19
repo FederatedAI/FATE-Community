@@ -1,7 +1,7 @@
 # Meeting minutes of FATE community on 2020/06/10
 
 ## Topic
-FATE LTS version & Unionpay joins FATE TSC
+FATE LTS version & China Unionpay joins FATE TSC
 
 ## Attendees Present
 
