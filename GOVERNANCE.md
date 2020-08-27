@@ -22,7 +22,7 @@ The FATE community adheres to the following principles:
 - A maintainer will never be removed forcefully, unless they fail to meet the principles of FATE community or adhere to the Code of Conduct.
 - In extreme cases this can also occur by voting process. Maintainers can be removed by a 1/2 majority of existing maintainers vote.
 # Decision making and voting #
-- The project aims to operate as a consensus-based community, and decisions are built on the agreement reached by maintainers. Proposals and ideas for agreement can either be submitted via a GitHub issue or PR, or by sending an email to [FedAI_maintainers@group.io](https://groups.io/g/FedAI-maintainers).
+- The project aims to operate as a consensus-based community, and decisions are built on the agreement reached by maintainers. Proposals and ideas for agreement can either be submitted via a GitHub issue or PR, or by sending an email to [FedAI-maintainers@groups.io](https://groups.io/g/FedAI-maintainers).
 - Decision making process should be transparent to adhere to the principles of FATE project.
 - If any decision requires a vote to move the Project forward, maintainers will vote on a one vote per voting maintainer basis.
 - Quorum for voting requires all voting maintainers to participate. 
