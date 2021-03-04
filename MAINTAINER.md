@@ -17,7 +17,7 @@ responsibilities.
 | Enzo Zhang     |  [huicpc0860](https://github.com/huicpc0860)  |   WeBank | Data Intensive Applications, Big Data Architecture, Federated Learning  | 
 | Rade Liu | ZhanqiLiu | Tencent | Machine Learning,Deep Learning,Federated Learning|
 | Junxue Zhang | [snowzjx](https://github.com/snowzjx) | Clustar | High performance networking, distributed systems, federated learning |
-| Peng Wang | https://github.com/wpdata | EB China Tech | Big Data Architecture，Machine Learning，Federated Learning |
-| Chuang Zhang | https://github.com/RyanSGH | SDC ICBC| Machine Learning，Federated Learning|
+| Peng Wang | [wpdata](https://github.com/wpdata) | EB China Tech | Big Data Architecture，Machine Learning，Federated Learning |
+| Chuang Zhang | [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
 
 
