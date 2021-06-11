@@ -21,6 +21,6 @@ responsibilities.
 | Chuang Zhang | [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
 | Wenbin Wei | [weiwee](https://github.com/weiwee) | WeBank| Machine Learning，Federated Learning|
 | Anying Xu| [Aimee-Hsu](https://github.com/RyanSGH) | ABC| Machine Learning，Federated Learning|
-| LaynePeng | [LaynePeng](https://github.com/LaynePeng) | VMWare| Machine Learning，Federated Learning|
+| LaynePeng | [LaynePeng](https://github.com/LaynePeng) | VMWare|cloud computing, distributed computing, computer architecture, DevOps|
 
 
