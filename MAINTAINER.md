@@ -19,5 +19,8 @@ responsibilities.
 | Junxue Zhang | [snowzjx](https://github.com/snowzjx) | Clustar | High performance networking, distributed systems, federated learning |
 | Peng Wang | [wpdata](https://github.com/wpdata) | EB China Tech | Big Data Architecture，Machine Learning，Federated Learning |
 | Chuang Zhang | [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
+| Wenbin Wei | [RyanSGH](https://github.com/RyanSGH) | WeBank| Machine Learning，Federated Learning|
+| Anying Xu| [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
+| Chuang Zhang | [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
 
 
