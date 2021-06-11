@@ -6,8 +6,8 @@ responsibilities.
 ## Maintainers ##
 | Maintainer Name | GitHub ID                                        | Affiliation	   |      Areas of expertise                                      |
 | --------------- | ------------------------------------------------ | --------------- | ------------------------------------------------------------ | 
-|1 | Toby Chen       | [Tianjian](https://github.com/Tianjian)          |   WeBank        |                                                              | 
-}2 | Dylan Fan       | [dylan-fan](https://github.com/dylan-fan)        |   WeBank        | Machine Learning,Deep Learning,Federated Learning            |
+| Toby Chen       | [Tianjian](https://github.com/Tianjian)          |   WeBank        |                                                              | 
+| Dylan Fan       | [dylan-fan](https://github.com/dylan-fan)        |   WeBank        | Machine Learning,Deep Learning,Federated Learning            |
 | Henry Zhang     | [hainingzhang](https://github.com/hainingzhang ) |   VMware        | cloud native, Machine learing, blockchain                    | 
 | Yang Liu      | [lyyanjiu1jia1](https://github.com/lyyanjiu1jia1)  |   Tencent       | Privacy-Preserving Machine Learning, Distributed Optimization over networks           | 
 | Zotrseeew Ma    | [mgqa34](https://github.com/mgqa34)              |   WeBank        |  Machine Learning,Deep Learning,Federated Learning           | 
@@ -19,8 +19,8 @@ responsibilities.
 | Junxue Zhang | [snowzjx](https://github.com/snowzjx) | Clustar | High performance networking, distributed systems, federated learning |
 | Peng Wang | [wpdata](https://github.com/wpdata) | EB China Tech | Big Data Architecture，Machine Learning，Federated Learning |
 | Chuang Zhang | [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
-| Wenbin Wei | [RyanSGH](https://github.com/RyanSGH) | WeBank| Machine Learning，Federated Learning|
-| Anying Xu| [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
-| Chuang Zhang | [RyanSGH](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
+| Wenbin Wei | [weiwee](https://github.com/weiwee) | WeBank| Machine Learning，Federated Learning|
+| Anying Xu| [Aimee-Hsu](https://github.com/RyanSGH) | SDC ICBC| Machine Learning，Federated Learning|
+| LaynePeng | [LaynePeng](https://github.com/LaynePeng) | VMWare| Machine Learning，Federated Learning|
 
 
