@@ -22,5 +22,9 @@ responsibilities.
 | Wenbin Wei | [weiwee](https://github.com/weiwee) | WeBank| Machine Learning，Federated Learning|
 | Anying Xu| [Aimee-Hsu](https://github.com/Aimee-Hsu) | ABC| Machine Learning，Federated Learning|
 | LaynePeng | [LaynePeng](https://github.com/LaynePeng) | VMWare|cloud computing, distributed computing, computer architecture, DevOps|
+| Runyuan Wang | [wangrunyuan](https://github.com/wangrunyuan) | BOC| Machine Learning, Federated Learning|
+| Shaoshun ding | [errord](https://github.com/errord) | Fushu|Machine Learning, Computing Engine|
+| Qing Zhang | [mangoblended](https://github.com/mangoblended) | China Telecom| Cryptology,MPC,Federated Learning|
+
 
 
