@@ -10,26 +10,80 @@ The FATE community adheres to the following principles:
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 - Vision: Benefit the ecosystem of federated AI solution providers, users and researchers, focused on federated AI use cases that will work across industries.
 
-# Changes in Maintainership #
-## Process for becoming a maintainer ##
-- Express interest to the maintainers that you are interested in becoming a maintainer. 
-- We will expect you have domain expertise.
-- We will expect you to start contributing some PRs, under the guidance of the existing maintainers.
-- As you gain experience with the code base and our standards, we will expect you to do some code reviews for incoming PRs and answer questions from community.
-- After a period of time working together, the existing maintainers will confer and decide whether to grant maintainer status or not. New maintainers are nominated by an existing maintainer and are elected by a 1/2 majority of existing maintainers vote.
-## When does a maintainer lose maintainer status ##
-- If a maintainer is no longer interested or cannot perform the maintainer duties, they are free to step down.
-- A maintainer will never be removed forcefully, unless they fail to meet the principles of FATE community or adhere to the Code of Conduct.
-- In extreme cases this can also occur by voting process. Maintainers can be removed by a 1/2 majority of existing maintainers vote.
+# Process for becoming a TSC member #
+## Becoming a TSC board member ##
+TSC Board members must meet these requirements: 
+- Participate in the FATE project;
+- Must be an individual or organization that provides advice and resources and shows leadership to guide or support the development of the FATE project.
+
+The rules for electing TSC Board members are given below:
+- Any candidates must be nominated by existing board members, and introduce their plans and resource support for the FATE project during the election.
+- Voting rule: Existing board members will vote to elect new board members. The candidate will become a board member by winning a simple majority of the votes.
+- In the initial election, a total of 5 board members shall be elected. Existing TSC members shall nominate the candidates for the TSC Board, and each TSC member has only one nomination chance. During the election, all candidates shall introduce their plans and resource support for the FATE project. Then existing TSC members will vote for each candidate. Candidates winning a simple majority of the votes will become board members.
+- The term of office of each board member is 2 years.
+- Before the expiry of the term, the member may renew the term by participating in a defense and winning a simple majority of the votes of the board members. 
+
+## Withdrawing from the TSC Board ##
+Any member may withdraw from the TSC Board during the term of office. Existing members are entitled to remove any member who fails to perform his/her duties or violates regulations through voting.
+- Voluntary withdrawal during the term of office: The member may file a withdrawal application to the TSC Chair, which shall review the application and decide whether this member is eligible to the nomination of future board members.
+- Passive withdrawal: If a board member fails to perform his/her duties or violates regulations, the TSC Chair may propose to remove this member through voting. The removal will be approved by a simple majority of the votes from board members. This member is ineligible for future board election.
+- If the representative of an organization member that serves as a board member cannot fulfill its role due to resignation or personal reasons during the term of office, the organization shall designate a new representative and continue the previous representative’s term of office.
+
+## Becoming a TSC maintainer ##
+The qualification requirements and application method for the TSC Maintainer are:
+- The TSC Maintainer must be a committer first. 
+- The applicant must be proficient in at least one technical expertise.
+- The applicant must keep contributing some PRs, including contributing codes, documentations, or other technologies, and undertaking partial code review of the community.
+- All TSC members shall vote within one month after the applicant files an application. The applicant will become the Maintainer by winning a simple majority of votes.
+
+The term of office of the TSC maintainer：There is no limit for the term of office of the Maintainer as long as the maintainer carries out his/her duties as a maintainer.
+
+A Maintainer can become a board member. As described before, a board member must be nominated by an existing board member, and win a simple majority of the votes from existing board members.
+
+## Withdrawing from the TSC maintainer ##
+The Maintainer may withdraw at any time. Existing TSC members are entitled to remove the Maintainer who fails to perform his/her duties or violates regulations through voting.
+- Voluntary withdrawal: The TSC Maintainer may withdraw by sending an email to all TSC members or submitting the PR on GitHub.
+- Passive withdrawal: If the TSC Maintainer fails to perform his/her duties or violates regulations, he/she will be removed by a simple majority of the votes from TSC members.
+
+## Election of the TSC Chair ##
+The TSC Chair must meet the following requirement:
+- An individual who has a significant influence in the industry and can contribute to the federated learning sector.
+
+The TSC Chair election rules are given below:
+- The TSC Chair shall be selected from and nominated by the TSC Board. The candidate winning a simple majority of the votes from the existing TSC members will be the TCS Chair.
+- Candidates must be nominated by existing board members, each of which can nominate one candidate only. During election, all candidates shall introduce their plans and resource support for the FATE project.
+- Voting rule: Existing TSC members will vote to elect the new Chair. The candidate will become the TSC Chair by winning a simple majority of the votes.
+- The term of office of the TSC Chair is one year, and the Chair can be re-elected once. If the board membership of the TSC Chair expires during its term of office, he/she may renew the membership and proceed on the stipulated renewal procedure, while the term of office of the TSC Chair will not be affected. The TSC Chair may terminate his or her TSC membership, but this will be regarded as voluntary withdrawal from the board and voluntary resignation from the TSC Chair following the corresponding procedures.
+- To extend the terms for one more term, the current TSC Chair shall file an application for reelection 3 months in advance. Then TSC members will vote, and the reappointment will be approved if he/she wins a simple majority of the votes.
+- During the election of new chair, the candidate must be nominated and elected following the above steps. Upon resignation, the former Chair will remain a board member or may withdraw from the board.
+
+## Resignation of the TSC Chair ##
+The TSC Chair may resign during the term of office. Existing board members are entitled to remove the Chair who fails to perform his/her duties or violates regulations through voting.
+- Voluntary resignation: The TSC Chair may file a resignation application to the TSC Board 3 months in advance, and directly resign after the election of the new Chair and handover the work to the new Chair within three months.
+- Passive resignation: If the TSC Chair fails to perform his/her duties or violates regulations, the LF or two (or above) board members may propose to remove the Chair through voting. The removal will be approved by a simple majority of the votes from TSC members. Upon the removal, the new Chair shall be elected following the stipulated chairperson election procedure.
+- The former Chair will be no longer a board member in the case of voluntary or passive resignation during the term of office.
+
 # Decision making and voting #
-- The project aims to operate as a consensus-based community, and decisions are built on the agreement reached by maintainers. Proposals and ideas for agreement can either be submitted via a GitHub issue or PR, or by sending an email to [FedAI-maintainers@groups.io](https://groups.io/g/FedAI-maintainers).
+- The project aims to operate as a consensus-based community, and decisions are built on the agreement reached by TSC members. Proposals and ideas for agreement can either be submitted via a GitHub issue or PR, or by sending an email to [FedAI-maintainers@groups.io](https://groups.io/g/FedAI-maintainers).
 - Decision making process should be transparent to adhere to the principles of FATE project.
-- If any decision requires a vote to move the Project forward, maintainers will vote on a one vote per voting maintainer basis.
-- Quorum for voting requires all voting maintainers to participate. 
-- Any decisions require to be supported by a majority approval of maintainers vote.
-- For formal votes, a specific statement of what is being voted on should be added to the relevant GitHub issue or PR, and a link to that issue or PR should be added to the maintainers meeting agenda document. Maintainers should indicate their yes/no vote on that issue or PR, and after a reasonable period of time, the votes will be tallied and the outcome will be noted.
-- All proposals, ideas, and decisions made by maintainers should either be part of a GitHub issue or PR.
-# Maintainer responsibilities #
+- If any decision requires a vote to move the Project forward, TSC member will vote on a one vote per voting TSC member basis.
+- Quorum for voting requires all voting TSC member to participate. 
+- Any decisions require to be supported by a majority approval of TSC member vote.
+- For formal votes, a specific statement of what is being voted on should be added to the relevant GitHub issue or PR, and a link to that issue or PR should be added to the TSC meeting agenda document. TSC member should indicate their yes/no vote on that issue or PR, and after a reasonable period of time, the votes will be tallied and the outcome will be noted.
+- All proposals, ideas, and decisions made by TSC member should either be part of a GitHub issue or PR.
+
+# TSC meeting #
+TSC meetings include the TSC Board meeting and the TSC regular meeting, with the agenda and form of each meeting as follows:
+
+**TSC Board Meeting**
+- This meeting is held irregularly, and called and chaired by the TSC Chair or any board member;
+- The agenda of the meeting includes the discussion and communication of major issues including rules and regulations, project direction, project cooperation, community development and community operation, the election of the Chair, and voting on relevant issues.
+
+**TSC Regular Meeting**
+- It is held once a quarter and chaired by the TSC Chair;
+- The agenda of the meeting includes technical discussion, project/sub-project review and proposal discussion, conveying of board resolution, and voting on relevant issues;
+- TSC members shall not be absent from meetings more than 2 times in a year; otherwise, the member could be removed from the TSC Board or TSC Maintainer.
+# Responsibilities #
 - Making a community work requires input/effort from everyone. Maintainers should actively participate in Pull Request reviews. Maintainers are expected to respond to assigned Pull Requests in a reasonable time frame, either providing insights, or assigning it to other maintainers. And make sure that ongoing PRs are moving forward at the right pace or close them.
 - Diligently providing supports (via mailing list, GitHub, slack, email, WeChat, etc.), answering questions，responding to requests and replying to bugs, etc.
 - Publishing releases
@@ -94,5 +148,5 @@ Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for general contribution guideli
 ## Code of Conduct ##
 FATE adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 # Updating Governance #
-All substantive changes in Governance require total Maintainership vote supported by 1/2 majority of existing maintainers.
+All substantive changes in Governance require total Maintainership vote supported by 2/3 majority of existing maintainers.
 
