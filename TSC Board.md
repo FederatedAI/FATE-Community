@@ -3,6 +3,11 @@
 [GOVERNANCE.md](./GOVERNANCE.md) describes governance guidelines and the board
 responsibilities.
 
+## TSC Chair ##
+| Name | Term of office        |
+| ------------ | --------------------- |
+| Qiang Yang      | 2021.XX.XX~2022.XX.XX |
+
 ## TSC Board ##
 | Board member | Term of office        | Representative | GitHub ID                  |
 | ------------ | --------------------- | -------------- | -------------------------- |
