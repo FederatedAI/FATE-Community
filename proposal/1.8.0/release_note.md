@@ -6,8 +6,6 @@
 > FATE-Flow
 * xxxx
 > FATE-Board
-* SBT supports GBDTMO mode.
-* Hetero SBT supports displaying feature importance under the host role.
+* Supports GBDTMO mode in SBT.
 * Add SSHE linr component.
 * Add Writer component.
-* Add Upload component.
