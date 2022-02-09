@@ -5,7 +5,8 @@
 * Hetero SecureBoost supports split feature importance on host side, disables gain feature importance.
 
 > FATE-Flow
-* xxx
+* The basic connection address of the data storage table is separated from the data table information, and is compatible with historical versions;
+* Optimize the component output data download interface;
 
 > FATE-Board
 * Support FATE-Board v1.7.2.1

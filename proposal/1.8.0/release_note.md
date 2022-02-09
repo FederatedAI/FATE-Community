@@ -21,6 +21,8 @@
 > FATE-Client
 * xxxx 
 > FATE-Flow
-* xxxx
+* Model migration optimization to reduce user operation steps
+* Added version compatibility check in Component Center to support multiple parties using different versions
+* Added batch disable table interface; table clean can be performed according to filter fields
 > FATE-Board
 * xxxx
