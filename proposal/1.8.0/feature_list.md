@@ -2,10 +2,10 @@
 > FederatedML 
 * Add SecureBoost-MO algorithm to speed up multi-class classification of Hetero & Homo SecureBoost
 * Merge Hetero FastSecureBoost into Hetero SecureBoost as a boosting strategy option
-* Speed up DH Intersection implementation, 30%+ faster
 * Add non-coordinated-version Hetero Linear Regression, based on integrated Hetero GLM framework, with mixed protocol of HE and SPDZ
 * Support weighted training in non-coordinated Hetero Logistic Regression & Linear Regression
 * Homo LR support one-vs-rest
+* Speed up DH Intersection implementation, 30%+ faster
 * Optimized Quantile Binning gk-summary structure & split point query
 
 > FATE-ARCH
