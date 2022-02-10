@@ -23,4 +23,6 @@
 > FATE-Flow
 * xxxx
 > FATE-Board
-* xxxx
+* Supports GBDTMO mode in SBT.
+* Add SSHE linr component.
+* Add Writer component.
