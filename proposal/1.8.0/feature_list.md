@@ -14,16 +14,15 @@
 > FATE-Test
 * Optimized testsuite printout table colorization
 * Optimized testsuite printout summary status
-* Include paillier encryption performance evaluation
+* Include Paillier encryption performance evaluation
 * Include examples data upload and mnist download
 * Provide pipeline to dsl convert tools.
 
-> FATE-Client
-* xxxx 
 > FATE-Flow
 * Optimize the model migration function to reduce user operation steps
 * Add version compatibility check in component center to support multiple parties to use different versions
 * Add batch disable table interface, and clean up tables based on filter fields
+
 > FATE-Board
 * Supports GBDTMO mode in SBT.
 * Add SSHE linr component.
