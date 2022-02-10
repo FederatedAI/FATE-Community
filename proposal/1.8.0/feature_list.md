@@ -1,4 +1,4 @@
-## Release 1.8.0
+## Feature 1.8.0
 > FederatedML 
 * Add SecureBoost-MO algorithm to speed up multi-class classification of Hetero & Homo SecureBoost
 * Merge Hetero FastSecureBoost into Hetero SecureBoost as a boosting strategy option

@@ -1,4 +1,4 @@
-## Release 1.7.2
+## Feature 1.7.2
 > FederatedML
 * New batch strategy in coordinated Hetero LR: support masked batch data and batch shuffle
 * Model inference protection enhancement for Hetero SecureBoost with FED-EINI algorithm
