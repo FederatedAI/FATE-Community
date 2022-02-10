@@ -1,4 +1,8 @@
 ## Feature 1.8.0
+> HightLight
+* Add non-coordinated-version Hetero Linear Regression
+* Add SecureBoost-MO algorithm to speed up multi-class classification
+
 > FederatedML 
 * Add SecureBoost-MO algorithm to speed up multi-class classification of Hetero & Homo SecureBoost
 * Merge Hetero FastSecureBoost into Hetero SecureBoost as a boosting strategy option
