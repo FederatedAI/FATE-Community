@@ -31,3 +31,12 @@
 * Supports GBDTMO mode in SBT.
 * Add SSHE linr component.
 * Add Writer component.
+
+
+# R&D Plan
+Dev Time: 2022/02/24 - 2022/03/20
+Test Time: 2022/03/21 - 2022/04/12
+Release Time: 2022/04/13 - 2022/04/15
+
+
+
