@@ -3,7 +3,7 @@
 * New batch strategy in coordinated Hetero LR: support masked batch data and batch shuffle
 * Model inference protection enhancement for Hetero SecureBoost with FED-EINI algorithm
 * Hetero SecureBoost supports split feature importance on host side, disables gain feature importance.
-
+* Offline SBT Feature transform component 
 > FATE-Flow
 * Separate the base connection address of the data storage table from the data table information, and compatible with historical versions;
 * Optimize the component output data download interface;
