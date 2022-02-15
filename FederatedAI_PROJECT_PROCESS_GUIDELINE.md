@@ -23,15 +23,15 @@ Gitflow (what FATE project using) is recommended:
 * Create release developing branch for initial a new release following practices: develop-%{release}%;
 * Create a new feature branch for developing a new feature;
 * Project lead responsible for managing PRs merge to release developing branch; \* 
-* Project lead PRs from release developing branch to master branch. **This PR has to get approval from more than half of FATE OSS Development Team members, and the approval from project lead followed by the approval of TSC Board. [Ref: Before release](#before-release)**;
+* Project lead PRs from release developing branch to master branch. **This PR has to get approval from more than half of FATE OSS Development Team members, and the approval from the project lead followed by the approval of TSC Board. [Ref: Before release](#before-release)**;
 * Project lead publish release from the master branch.
 
 > **_NOTE:_**  project lead decides if contributor PR to feature branch or release developing branch. This document ignores the flexibilities in the following sections.
 
-All commits must be signed by contributor. A GPG sign is a plus.
+All commits must be signed by the contributor. A GPG sign is a plus.
 
 ### Development processes
-All FederatedAI projects. All features, bug fixes should be added to Github issues. All PRs should be linked to related issues. The PR should set to require review.
+All FederatedAI projects. All features, bug fixes should be added to Github issues. All PRs should be linked to related issues. The PR should be set to require review.
 #### Gather requirements and issues
 All feature requirements come from Github issue -> Feature request. 
 Each project must add a *Feature request* template to the project repo.
@@ -58,24 +58,28 @@ The PR will be merged, and the label *accepted-proposal* will be added to the PR
 6. If a proposal is voted down, the PR will be left unmerged, and the label tabled-proposal will be added to the PR.
 
 #### Discuss and created a development plan
-In each release, the project manager should filter the *feature requests* organize a meeting to gather all issues (features), and PR the *"Develop_%{release}%_Features_List"* to the [FATE-Community](https://github.com/FederatedAI/FATE-Community) related folder. The *"Develop_%{release}%_Features_List"* should include the feature, issue id for tracing.
+In each release, the project manager should filter the *feature requests* organize a meeting to gather all issues (features), and PR the *"Develop_%{release}%_Features_List"* to the [FATE-Community](https://github.com/FederatedAI/FATE-Community) *Feature_List* folder. The *"Develop_%{release}%_Features_List"* should include the feature, issue id for tracking.
 
 The project manager should organize the review meeting if necessary. 
 
 At the end of the review period, a vote will be held. This vote will take place on the *"Develop_%{release}%_Features_List"* PR. If the PR of release features list receives more than half of "approve" votes and the project leads "approve" vote, the feature list will be accepted and added to the community repo. The PR will be merged, and the label *accepted-proposal* will be added to the PR.
 
-After the release features list review, the project manager should create the related development plan and add it to *Github projects*. All approved issues (features) and their status should be found in related *Github projects*. 
+After the release features list review, the *"Develop_%{release}%_Features_List"* will be triaged to stories or tasks and add them to *Github projects*. All approved issues (features) and their status should be found in related *Github projects*. 
 
-#### Dev plan review 
+#### Dev plan tracking 
 The project manager hosts the bi-weekly meeting and introduces the project issues with the *Github Projects*.
 
 #### Developing in progress
 The project manager is responsible for tracking the development progress in *Github Projects*. The development progress publishes to the community.
 
 #### Before release
-Corresponding to the Gitflow introduced above, the project lead is responsible for PR from the release developing branch to the master branch. This PR must receive the  of:
-* more than half of the *FATE OSS Development Team* ;
+Corresponding to the Gitflow introduced above, the project lead is responsible for PR from the release developing branch to the master branch. This PR must receive the of:
+* more than half of the *FATE OSS Development Team*;
 * project lead followed by the approval of TSC Board.
+
+Because FATE project consists of several subprojects, once FATE got approval for a new release, all the subprojects (e.g. FATE-Board, FATE-Flow, etc.) are derived the approval from the FATE project. Only FATE-Serving and KubeFATE requires seperated approvals by now.
+
+If only a subproject (e.g. FATE-Board) needs to be published a new release, it still needs the approval process. 
 
 #### Exceptionals
 ##### Additional features or fixes add to developing release
@@ -89,7 +93,7 @@ If there is a patch that needs to apply to old but supporting release, the devel
 * Create a feature branch for developing patch;
 * Project lead responsible for managing PRs merge to release developing branch;
 * Project lead responsible for creating a patch release branch: release-%{release}%;
-* Project lead PRs from release developing branch to patch release branch. **This PR has to get approval from more than half of FATE OSS Development Team members, and the approval from the project lead followed by the approval of theTSC Board. [Ref: Before release](#before-release)**;
+* Project lead PRs from release developing branch to patch release branch. **This PR has to get approval from more than half of FATE OSS Development Team members, and the approval from the project lead followed by the approval of the TSC Board. [Ref: Before release](#before-release)**;
 * Project lead publish release from the patch release branch.
 
 ## Tools
