@@ -1,5 +1,5 @@
 # Proposal: Hardware Accleration Support
-Author: <[Junxue ZHANG](https://github.com/snowzjx), Sunhuan SUN, Bin ZHAO>
+Author: <[Junxue ZHANG](https://github.com/snowzjx), Junhuan SUN, Bin ZHAO>
 
 Discussion: N/A
 
