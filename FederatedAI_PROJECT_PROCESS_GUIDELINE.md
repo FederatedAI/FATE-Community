@@ -6,6 +6,11 @@ The purpose of this document is to define the base guidelines of common project 
 ## No-Goals
 This document does not cover all details of managing a project. Flexibility is a must for the project manager to set out according to the actual situations of different projects.
 
+## Roles
+* Project lead
+* Project manager
+* Feature developer
+
 ## Project Management Processes
 ### Release
 * Major release means a release consists of major new features and/or large architectural changes. It indicates the tenth place. e.g. 1.7, 1.8, 1.9, etc.
@@ -20,13 +25,13 @@ The community maintains the latest 2 major releases. Each major release, only ma
 
 ### Git
 Gitflow (what FATE project using) is recommended:
-* Create release developing branch for initial a new release following practices: develop-%{release}%;
-* Create a new feature branch for developing a new feature;
-* Project lead responsible for managing PRs merge to release developing branch; \* 
-* Project lead PRs from release developing branch to master branch. **This PR has to get approval from more than half of FATE OSS Development Team members, and the approval from the project lead followed by the approval of TSC Board. [Ref: Before release](#before-release)**;
-* Project lead publish release from the master branch.
+* The project lead creates a *release developing branch* for initial a new release following practices: develop-%{release}%;
+* The feature developer creates a new *feature branch* for developing a new feature;
+* The project lead is responsible for managing PRs merge to the *release developing branch* with SIG on Security (SIGoS)' approval; [Ref: Before merging a PR to the *release developing branch*](#before-merging-a-pr-to-release-developing-branch); \* 
+* The project lead PRs from the *release developing branch* to the *master branch* with the community's approval [Ref: Before release](#before-release);
+* The project lead publishes release from the *master branch*.
 
-> **_NOTE:_**  project lead decides if contributor PR to feature branch or release developing branch. This document ignores the flexibilities in the following sections.
+> **_NOTE:_**  the project lead decides if contributor PR to the *feature branch* or the *release developing branch*. This document ignores the flexibilities in the following sections.
 
 All commits must be signed by the contributor. A GPG sign is a plus.
 
@@ -58,13 +63,15 @@ The PR will be merged, and the label *accepted-proposal* will be added to the PR
 6. If a proposal is voted down, the PR will be left unmerged, and the label tabled-proposal will be added to the PR.
 
 #### Discuss and created a development plan
-In each release, the project manager should filter the *feature requests* organize a meeting to gather all issues (features), and PR the *"Develop_%{release}%_Features_List"* to the [FATE-Community](https://github.com/FederatedAI/FATE-Community) *Feature_List* folder. The *"Develop_%{release}%_Features_List"* should include the feature, issue id for tracking.
+In each release, the project manager should filter the issues of *feature requests* and organize a meeting to gather all issues (features), and PR the *"Develop_%{release}%_Features_List"* to the [FATE-Community](https://github.com/FederatedAI/FATE-Community) *Features_List* folder. The *"Develop_%{release}%_Features_List"* should include the feature, issue id for tracking.
 
 The project manager should organize the review meeting if necessary. 
 
-At the end of the review period, a vote will be held. This vote will take place on the *"Develop_%{release}%_Features_List"* PR. If the PR of release features list receives more than half of "approve" votes and the project leads "approve" vote, the feature list will be accepted and added to the community repo. The PR will be merged, and the label *accepted-proposal* will be added to the PR.
+At the end of the review period, a vote will be held. This vote will take place on the *"Develop_%{release}%_Features_List"* PR. If the PR of release features list receives more than half of the "approve" votes and the project leads "approve" vote, the feature list will be accepted and added to the community repo. The PR will be merged, and the label *accepted-proposal* will be added to the PR.
 
 After the release features list review, the *"Develop_%{release}%_Features_List"* will be triaged to stories or tasks and add them to *Github projects*. All approved issues (features) and their status should be found in related *Github projects*. 
+
+The SIGoS labels *security_check_required* to the issues (features) which need special security checks during the review period. 
 
 #### Dev plan tracking 
 The project manager hosts the bi-weekly meeting and introduces the project issues with the *Github Projects*.
@@ -72,8 +79,11 @@ The project manager hosts the bi-weekly meeting and introduces the project issue
 #### Developing in progress
 The project manager is responsible for tracking the development progress in *Github Projects*. The development progress publishes to the community.
 
+#### Before merging a PR to *release developing branch*
+After a feature finishes development, the project lead is responsible for merging the PR from the *feature branch* to the *release developing branch*. But all PRs linked to the feature issues, which are labeled *security_check_required* must pass the security checks processed by SIGoS and be labeled *security_approved* before merging to the *release developing branch*.
+
 #### Before release
-Corresponding to the Gitflow introduced above, the project lead is responsible for PR from the release developing branch to the master branch. This PR must receive the of:
+Corresponding to the Gitflow introduced above, the project lead is responsible for PR from the *release developing branch* to the *master branch*. This PR must receive the of:
 * more than half of the *FATE OSS Development Team*;
 * project lead followed by the approval of TSC Board.
 
@@ -89,12 +99,12 @@ If the features and fixes miss the windows of development, they should follow th
 
 ##### Fixes patch to old release
 If there is a patch that needs to apply to old but supporting release, the development team is suggested to follow the process:
-* Create release developing branch for initial a new release following practices: develop-%{release}%;
-* Create a feature branch for developing patch;
-* Project lead responsible for managing PRs merge to release developing branch;
-* Project lead responsible for creating a patch release branch: release-%{release}%;
-* Project lead PRs from release developing branch to patch release branch. **This PR has to get approval from more than half of FATE OSS Development Team members, and the approval from the project lead followed by the approval of the TSC Board. [Ref: Before release](#before-release)**;
-* Project lead publish release from the patch release branch.
+* The project lead creates a *release developing branch* for initial a new release following practices: develop-%{release}%;
+* The feature developer creates a new *feature branch* for developing a new feature;
+* The project lead is responsible for managing PRs merge to the *release developing branch* with SIG on Security (SIGoS)' approval; [Ref: Before merging a PR to the *release developing branch*](#before-merging-a-pr-to-release-developing-branch); \* 
+* The project lead responsible for creating a *patch release branch*: release-%{release}%;
+* The project lead PRs from the *release developing branch* to the *patch release branch* with the community's approval [Ref: Before release](#before-release);
+* The project lead publishes release from the *patch release branch*.
 
 ## Tools
 The community Process WG is responsible for creating related tools to facilitate the project management process in the future.
