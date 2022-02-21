@@ -33,7 +33,7 @@ In FATE, various cryptographic operations have been used to protect data privacy
 
 10. RSA Unblind.
 
-Although preserving data privacy, these cryptographic operations also cause a dramatic performance penalty. In our experiment, These cryptographic operations cause >~80% total time when executing an end-to-end application. Thus, if we can efficiently accelerate these cryptographic operations, the end-to-end performance of FATE could be significantly improved.
+Although preserving data privacy, these cryptographic operations also cause a dramatic performance penalty. In our experiment, these cryptographic operations cause >~80% total time when executing an end-to-end application. Thus, if we can efficiently accelerate these cryptographic operations, the end-to-end performance of FATE could be significantly improved.
 
 # Proposal #
 [A precise statement of the proposed change.]
