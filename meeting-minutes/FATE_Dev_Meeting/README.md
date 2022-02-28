@@ -11,10 +11,13 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 **Meeting Minutes:**
 
 [Feb 10, 2022](FATEDevMeeting20220210.pdf)
+  
+[Feb 24, 2022](FATEDevMeeting20220224.pdf)
 
   
 <BR><BR>
   
 **Meeting Schedule:**
 
-TBD
+
+
