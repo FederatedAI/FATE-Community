@@ -14,6 +14,7 @@ All confirmed or suspected security vulnerabilities shall be reported privately 
 Important: To protect the user community, do not post security vulnerabilities on GitHub or other public media.
 
 **Recommended Vulnerability Reporting Format**
+
 Please include the following information in the body of the email, along with a descriptive subject line.
 - Basic identity information, such as your name and employer.
 - Specific steps for vulnerability recurrence (necessary scripts, screenshots, and compressed packet captures are all helpful).
@@ -22,6 +23,7 @@ Please include the following information in the body of the email, along with a 
 - List other projects or dependencies used with FATE to produce the vulnerability.
 
 **Security Vulnerability Response**
+
 After receiving your email, the FATE SRC will contact you within 3 working days and start to investigate the vulnerability, including the results of vulnerability identification and analysis, fixing plan, and any potential workarounds implemented during this period. Any vulnerability information shared with the SRC will remain within the FATE project and will not be disseminated to other projects unless it is necessary to fix the issue.
 ### When Should I Report a Vulnerability ###
 - You think you have found a potential security vulnerability in FATE.
