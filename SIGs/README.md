@@ -16,4 +16,8 @@ There are several ways to join FATE SIGs.
 
 1. If you are already a FATE maintainer, you can directly join any FATE SIGs.
 
-2. Anyone can apply to join any FATE SIG by submitting documents/materials/references showing that you are qualified for a FATE SIG. Your application will be evaluated by the FATE OSS Dev Team and the members in the FATE SIG.
+2. Anyone can apply to join any FATE SIG by submitting documents/materials/references showing that you are qualified for a FATE SIG. Your application will be evaluated/approved by the SIG you want to join.
+
+## How to exit FATE SIGs?
+
+Anyone is free to exit FATE SIGs that he/she has joined. He/she has to notify the FATE SIG to confirm his/her exist.
