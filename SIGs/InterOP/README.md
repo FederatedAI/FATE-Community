@@ -10,13 +10,13 @@
 
 
 ## Tasks
-* Group formation
-* Create InterOP repository
-* Propose the interoperability framework
-* Define API and workflow of each module
-* FATE adaptation
-* Invite candidate PPC solutions to adapt to the interoperability framework
-* Test and evaluation
+1. Group formation
+1. Create InterOP repository
+1. Propose the interoperability framework
+1. Define API and workflow of each module
+1. FATE adaptation
+1. Invite candidate PPC solutions to adapt to the interoperability framework
+1. Test and evaluation
 
 ## Members
 | Name       | Affline | Research Interest | Links                      |
