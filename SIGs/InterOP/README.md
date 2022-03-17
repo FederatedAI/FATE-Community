@@ -27,3 +27,6 @@
 | Dylan FAN | Webank |  |  |
 | Javis ZENG | Webank |  |  |
 | Layne | VMWare |  |  |
+| HE Hao | InsightOne | | |
+| ZHANG Le | UnionPay | | |
+| CHE Jinguo | UnionPay | | |
