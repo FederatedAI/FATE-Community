@@ -1,10 +1,10 @@
-# About FATE Dev Team
+# About FATE Development Committee
 
-This directory contains the mintues of the FATE Dev Team Meetings. The FATE Dev Team is responsible for the development of the FATE project and building up a community
-for the FATE project. It is under the leadership of FATE TSC Board. The current team members:
+This directory contains the mintues of the FATE Development Committee Meetings. The FATE  Development Committee is responsible for the development of the FATE project and building up a community
+for the FATE project. It is under the leadership of FATE TSC Board. The current committee members:
 
-**Team Lead:** Henry Zhang  
-**Team Members:** Dylan Fan, Xiaolin Li, Layne Peng, Jarvis Zeng, Junxue Zhang, Yongkai Zhou  
+**Chair:** Henry Zhang  
+**Members:** Dylan Fan, Xiaolin Li, Layne Peng, Jarvis Zeng, Junxue Zhang, Yongkai Zhou  
 
 <BR>
   
@@ -14,10 +14,14 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
   
 [Feb 24, 2022](FATEDevMeeting20220224.pdf)
 
+[March 10, 2022](FATEDevMeeting20220310.pdf)
+
   
 <BR><BR>
   
 **Meeting Schedule:**
 
-
+March 24, 2022
+  
+April 7, 2022
 
