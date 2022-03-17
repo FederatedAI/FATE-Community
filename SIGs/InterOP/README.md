@@ -22,3 +22,8 @@
 | Name       | Affline | Research Interest | Links                      |
 | ---------- | ------- | ----------------- | -------------------------- |
 | ZHOU Yongkai | UnionPay | Cloud Native, MPC, Federated Learning | https://github.com/vistakk |
+| WANG Fangchi | VMware |  |  |
+| LI Xiaolin | CMBC |  |  |
+| Dylan FAN | Webank |  |  |
+| Javis ZENG | Webank |  |  |
+| Layne | VMWare |  |  |
