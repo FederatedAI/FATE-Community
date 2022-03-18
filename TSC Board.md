@@ -8,6 +8,11 @@ responsibilities.
 | ------------ | --------------------- |
 | Qiang Yang      | 2021.12.10~2022.12.09 |
 
+## Honorable Chair ##
+| Name | GitHub ID                  |
+| ------------ | --------------------- |
+| Jie Tang      | - |
+
 ## TSC Board ##
 | Board member | Term of office        | Representative | GitHub ID                  |
 | ------------ | --------------------- | -------------- | -------------------------- |
@@ -16,3 +21,8 @@ responsibilities.
 | UnionPay     | 2021.11.11~2023.11.10 | Yongkai Zhou   | [vistakk](https://github.com/vistakk)  |
 | VMware       | 2021.11.11~2023.11.10 | Henry Zhang    | [hainingzhang](https://github.com/hainingzhang ) |
 | WeBank       | 2021.11.11~2023.11.10 | Qiang Yang     |[QiangYang12](quianajiang@webank.com)                            |
+
+## TSC secretary ##
+| Name | GitHub ID                  |
+| ------------ | --------------------- |
+| BingYin Lin      | [kelley1069](https://github.com/Kelley1069) |
