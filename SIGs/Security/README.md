@@ -28,3 +28,5 @@ FATE SIG on Security focuses on the following topics:
 | Dylan FAN    | WeBank             | Machine Learning, Deep Learning, Federated Learning | https://github.com/dylan-fan |
 | MA Guoqiang  | WeBank             | Machine Learning, Deep Learning, Federated Learning | https://github.com/mgqa34 |
 | ZHOU Yongkai  | UnionPay             | Cloud Nativ Arch, MPC security | https://github.com/vistakk |
+| GONG Qiyuan | Intel Corporation | Data Anonymization, PPML, Federated Learning | https://github.com/qiyuangong |
+| CHENG Yong | Tencent | Federated Learning | https://github.com/YongGuCheng |
