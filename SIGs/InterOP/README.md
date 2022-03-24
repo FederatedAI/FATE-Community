@@ -23,10 +23,13 @@
 | ---------- | ------- | ----------------- | -------------------------- |
 | ZHOU Yongkai | UnionPay | Cloud Native, MPC, Federated Learning | https://github.com/vistakk |
 | WANG Fangchi | VMware |  |  |
+| WANG Peng | EverGrand | | |
 | LI Xiaolin | CMBC |  |  |
-| Dylan FAN | Webank |  |  |
-| Javis ZENG | Webank |  |  |
-| Layne | VMWare |  |  |
+| FAN Tao (Dylan) | Webank |  |  |
+| ZENG Jice (Jarvis) | Webank |  |  |
+| ZHANG Yifei | BoC | | | 
+| LIU Zhanqi | Tencent | | |
+| Peng Lin (Layne) | VMWare |  |  |
 | HE Hao | InsightOne | | |
 | ZHANG Le | UnionPay | | |
 | CHE Jinguo | UnionPay | | |
