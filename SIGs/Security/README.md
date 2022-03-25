@@ -30,3 +30,7 @@ FATE SIG on Security focuses on the following topics:
 | ZHOU Yongkai  | UnionPay             | Cloud Nativ Arch, MPC security | https://github.com/vistakk |
 | GONG Qiyuan | Intel Corporation | Data Anonymization, PPML, Federated Learning | https://github.com/qiyuangong |
 | CHENG Yong | Tencent | Federated Learning | https://github.com/YongGuCheng |
+| ZHANG Le | UnionPay | Machine Learning, Deep Learning | |
+| CHEN Zhongzheng | UnionPay | FL | |
+| ZHANG Yuanjian | UnionPay | Machine Learning, FL | https://publons.com/researcher/ABE–6483－2020/ |
+| CHE Jinguo | UnionPay | FL | https://github.com/majorinche |
