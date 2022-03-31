@@ -29,7 +29,8 @@
 | ZENG Jice (Jarvis) | Webank |  |  |
 | ZHANG Yifei | BoC | | | 
 | LIU Zhanqi | Tencent | | |
-| Peng Lin (Layne) | VMWare |  |  |
+| SUN Junhuan | Clustar |  |  |
 | HE Hao | InsightOne | | |
-| ZHANG Le | UnionPay | | |
-| CHE Jinguo | UnionPay | | |
+| ZHANG Le | UnionPay | Software Engineering, FML |  |
+| CHE Jinguo | UnionPay | System Architecture, FML |  |
+| ZHAO Bin | Clustar |  |  |
