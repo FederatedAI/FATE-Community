@@ -9,9 +9,9 @@ responsibilities.
 | Qiang Yang      | 2021.12.10~2022.12.09 |
 
 ## Honorable Chair ##
-| Name | GitHub ID                  |
+| Name | Affiliation	   |
 | ------------ | --------------------- |
-| Jie Tang      | - |
+| Jie Tang      | Tsinghua University |
 
 ## TSC Board ##
 | Board member | Term of office        | Representative | GitHub ID                  |
