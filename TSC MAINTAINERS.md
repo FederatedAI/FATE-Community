@@ -4,7 +4,7 @@
 responsibilities.
 
 ## TSC Maintainers ##
-| Maintainer name | GitHub ID                                        | Affiliation	   |      Areas of expertise                                      |
+| Name | GitHub ID                                        | Affiliation	   |      Areas of expertise                                      |
 | ---------------------------- | ------------------------------------------------ | --------------- | ------------------------------------------------------------ | 
 | Dylan Fan              | [dylan-fan](https://github.com/dylan-fan)        |   WeBank        | Machine Learning,Deep Learning,Federated Learning            |
 | Henry Zhang            | [hainingzhang](https://github.com/hainingzhang ) |   VMware        | cloud native, Machine learing, blockchain                    | 
