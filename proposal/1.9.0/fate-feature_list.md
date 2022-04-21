@@ -1,5 +1,4 @@
 ## Feature 1.9.0
-
 > FederatedML 
 * PSI Supports ECDH Protocol
 * PSI Support Exact Cardinality Estimation
@@ -34,9 +33,9 @@
 
 
 # R&D Plan
-Dev Time: 2022/04/20 - 2022/07/20
-Test Time: 2022/07/21 - 2022/08/22
-Release Time: 2022/08/22 - 2022/08/25
+* Dev Time: 2022/04/20 - 2022/07/20
+* Test Time: 2022/07/21 - 2022/08/22
+* Release Time: 2022/08/22 - 2022/08/25
 
 
 
