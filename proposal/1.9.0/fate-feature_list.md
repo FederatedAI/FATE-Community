@@ -17,10 +17,11 @@
 * Support interconnection between different versions
 * Support interconnection between eggroll , spark, standalone backend
 * Support for heterogeneous acceleration architecture (Maybe)
+* Support pulsar-client mode for federation
 
 > FATE-Flow
 * Added site dataset permission control
-* Reader component support feature anonymity 
+* Reader component support feature anonymity
 * Added api data storage type
 * Add the api reader component to get the specified feature data 
 * fate flow support HA
