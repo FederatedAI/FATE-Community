@@ -8,7 +8,7 @@
 * Hetero-NN Support PyTorch Backend
 * Support Multi-Host In Hetero-NN
 * Add Label Protection enhancement Strategy In Hetero-NN
-* export PPML model for guest-single-y case
+* export PMML model for guest-single-y case
 * Accelerated Paillier cryptosystem scheme on Intel AVX512/IFMA
 
 > FATE-ARCH
