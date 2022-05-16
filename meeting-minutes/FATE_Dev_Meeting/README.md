@@ -22,12 +22,16 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 
 [April 21, 2022](FATEDevMeeting20220421.pdf)
 
+[May 12, 2022](FATEDevMeeting20220512.pdf)
   
 <BR><BR>
   
 **Meeting Schedule:**
 
-May 12, 2022
-
 May 26, 2022
+
+June 9, 2022
+
+June 23, 2022
+
 
