@@ -7,18 +7,24 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 **Members:** Dylan Fan, Xiaolin Li, Layne Peng, Jarvis Zeng, Junxue Zhang, Yongkai Zhou  
 
 <BR>
-[Project proposals](https://github.com/FederatedAI/FATE-Community/tree/master/proposal)
+  
+**Documents**
+  
+[Proposals](https://github.com/FederatedAI/FATE-Community/tree/master/proposal)
 
 [Development Process](https://github.com/FederatedAI/FATE-Community/blob/master/FederatedAI_PROJECT_PROCESS_GUIDELINE.md)
 
+
+<BR>
   
-**Project Development Dashboard:**
+**Project Development Dashboard**
 
-[FATE](https://github.com/orgs/FederatedAI/projects?type=beta)
+[FATE Project Dashboard](https://github.com/orgs/FederatedAI/projects?type=beta)
 
-[KubeFATE](https://github.com/orgs/FederatedAI/projects/5/views/1)
+[KubeFATE Project Dashboard](https://github.com/orgs/FederatedAI/projects/5/views/1)
 
-
+<BR>
+  
 **Meeting Minutes:**
 
 [Feb 10, 2022](FATEDevMeeting20220210.pdf)
