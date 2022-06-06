@@ -8,6 +8,23 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 
 <BR>
   
+**Documents**
+  
+[Proposals](https://github.com/FederatedAI/FATE-Community/tree/master/proposal)
+
+[Development Process](https://github.com/FederatedAI/FATE-Community/blob/master/FederatedAI_PROJECT_PROCESS_GUIDELINE.md)
+
+
+<BR>
+  
+**Project Development Dashboard**
+
+[FATE Project Dashboard](https://github.com/orgs/FederatedAI/projects?type=beta)
+
+[KubeFATE Project Dashboard](https://github.com/orgs/FederatedAI/projects/5/views/1)
+
+<BR>
+  
 **Meeting Minutes:**
 
 [Feb 10, 2022](FATEDevMeeting20220210.pdf)
@@ -24,14 +41,12 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 
 [May 12, 2022](FATEDevMeeting20220512.pdf)
   
-<BR><BR>
+[June 1, 2022](FATEDevMeeting20220601.pdf) <BR><BR>
   
 **Meeting Schedule:**
 
-May 26, 2022
+June 16, 2022
 
-June 9, 2022
-
-June 23, 2022
+June 30, 2022
 
 
