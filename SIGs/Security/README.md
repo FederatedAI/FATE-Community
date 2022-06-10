@@ -19,9 +19,9 @@ FATE SIG on Security focuses on the following topics:
 | LIU Ximeng | National Natural Science Foundation of China<br>Peng Cheng Laboratory</br>Professor, Fuzhou University | FHE, MPC, Federated Learning | https://2uu.org |
 | WANG Leye  | Assistant Professor, Peking Univerisity | Federated Learning | https://wangleye.github.io |
 | ZHAO Bowen | Associate Professor, Xidian Univerisity | MPC | https://www.researchgate.net/profile/Bowen-Zhao-4 |
-| GUO Kun    | Associate Professor, Fuzhou University  | Data Mining, Federated Learning, Distributed System | https://ccds.fzu.edu.cn/info/1203/5028.htm |
+| GUO Kun    | Associate Professor, Fuzhou University  | Data Mining, Federated Learning, Distributed System | https://scholar.google.com/citations?user=qe6HxZQAAAAJ&hl=en |
 | LIU Yang   | Xidian Univerisity | MPC, Federated Learning | https://scholar.google.com/citations?hl=zh-CN&user=IheXzHkAAAAJ |
-| CHAI Di    | HKUST & Clustar    | Matrix-related Encryption/Decryption | |
+| CHAI Di    | HKUST & Clustar    | Matrix-related Encryption/Decryption | https://di-chai.github.io |
 | Henry ZHANG  | VMWare             | Cloud Native, Machine Learing, Blockchain | https://github.com/hainingzhang |
 | ZHANG Junxue | HKUST & Clustar    | FHE | https://snowzjx.me |
 | Jarvis ZENG  | WeBank             | Machine Learning, Federated Learning, Distributed System, Cloud Native | https://github.com/jarviszeng-zjc |
