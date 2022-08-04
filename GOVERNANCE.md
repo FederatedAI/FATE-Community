@@ -80,7 +80,7 @@ The TSC Chair may resign during the term of office. Existing board members are e
 
 # Organization Member #
 ## Becoming an organization member ##
-The rights and responsibilities of the organization member include the following.
+The rights and responsibilities of the organization member include the following:
 - Assign at least one dedicated volunteer to participate in community building, including but not limited to technical research and development, business application, community operation and SIG.
 - Participate in the ecological construction of the community, drive the adoption of FATE’s application in organization member, and build a bridge of resource cooperation between the community and organization members.
 - Enjoy the priority right to participate in the SIGs, and to participate in the development, reports and activities of project-related standards.
