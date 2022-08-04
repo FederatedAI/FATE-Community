@@ -15,14 +15,14 @@ The TSC consists of the TSC Board and the TSC Maintainers.
 
 ## Becoming a TSC board member ##
 The TSC Board will be responsible for the following aspects of the Project. 
-- Providing advice and resources to guide or support the development of the Project;
-- Nominating and electing candidates for the TSC Chair;
-- Proposing improvements for the project, including its governance and community processes; and
+- Providing advice and resources to guide or support the development of the Project.
+- Nominating and electing candidates for the TSC Chair.
+- Proposing improvements for the project, including its governance and community processes, and
 defining additional areas the TSC Board may assist the Project.
 - At least one dedicated volunteer should be assigned to work in the community, including but not limited to technical research and development, business application, community operation and SIG. The volunteers can come from the Board members themselves or recommended organization members.
 
 TSC Board members must meet these requirements: 
-- Participate in the FATE project;
+- Participate in the FATE project.
 - Must be an individual or organization that provides advice and resources and shows leadership to guide or support the development of the FATE project.
 
 The rules for electing TSC Board members are given below:
