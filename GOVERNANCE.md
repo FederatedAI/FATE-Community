@@ -10,10 +10,19 @@ The FATE community adheres to the following principles:
 - Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 - Vision: Benefit the ecosystem of federated AI solution providers, users and researchers, focused on federated AI use cases that will work across industries.
 
-# Process for becoming a TSC member #
+# TSC member #
+The TSC consists of the TSC Board and the TSC Maintainers. 
+
 ## Becoming a TSC board member ##
+The TSC Board will be responsible for the following aspects of the Project. 
+- Providing advice and resources to guide or support the development of the Project.
+- Nominating and electing candidates for the TSC Chair.
+- Proposing improvements for the project, including its governance and community processes, and
+defining additional areas the TSC Board may assist the Project.
+- At least one dedicated volunteer should be assigned to work in the community, including but not limited to technical research and development, business application, community operation and SIG. The volunteers can come from the Board members themselves or recommended organization members.
+
 TSC Board members must meet these requirements: 
-- Participate in the FATE project;
+- Participate in the FATE project.
 - Must be an individual or organization that provides advice and resources and shows leadership to guide or support the development of the FATE project.
 
 The rules for electing TSC Board members are given below:
@@ -30,6 +39,12 @@ Any member may withdraw from the TSC Board during the term of office. Existing m
 - If the representative of an organization member that serves as a board member cannot fulfill its role due to resignation or personal reasons during the term of office, the organization shall designate a new representative and continue the previous representative’s term of office.
 
 ## Becoming a TSC maintainer ##
+The TSC Maintainers will be responsible for the following aspects. The TSC Maintainers must fulfill their duties during their terms of office.
+- Actively contributing to the project and the community, participating in the code review process, responding to and replying to contributions and issues in a timely manner, and ensuring the overall code review process  progresses in a timely manner.
+- Managing issues, including bugs and problems.
+- Managing the repository and tracking the release process.
+- Preparing and updating documentation.
+
 The qualification requirements and application method for the TSC Maintainer are:
 - The TSC Maintainer must be a committer first. 
 - The applicant must be proficient in at least one technical expertise.
@@ -62,6 +77,46 @@ The TSC Chair may resign during the term of office. Existing board members are e
 - Voluntary resignation: The TSC Chair may file a resignation application to the TSC Board 3 months in advance, and directly resign after the election of the new Chair and handover the work to the new Chair within three months.
 - Passive resignation: If the TSC Chair fails to perform his/her duties or violates regulations, the LF or two (or above) board members may propose to remove the Chair through voting. The removal will be approved by a simple majority of the votes from TSC members. Upon the removal, the new Chair shall be elected following the stipulated chairperson election procedure.
 - The former Chair will be no longer a board member in the case of voluntary or passive resignation during the term of office.
+
+# Organization Member #
+## Becoming an organization member ##
+The rights and responsibilities of the organization member include the following:
+- Assign at least one dedicated volunteer to participate in community building, including but not limited to technical research and development, business application, community operation and SIG.
+- Participate in the ecological construction of the community, drive the adoption of FATE’s application in organization member, and build a bridge of resource cooperation between the community and organization members.
+- Enjoy the priority right to participate in the SIGs, and to participate in the development, reports and activities of project-related standards.
+- The logo of organization members can be displayed on the official media of the community.
+
+The organization member must meet the following requirements:
+- Possess capabilities of technical research and development or have the business scenarios of applications in the field of privacy computing.
+- Willing to invest resources in participating in community construction and contribution, including but not limited to technology research and development, scenario application, community cooperation and community operation.
+
+The rules of becoming an Organization member are:
+- The applicant must submit related information to TSC, please contact xxxxxx for the application form.
+- Voting: All TSC Board members shall vote within one month after the applicant files an application. The applicant will become the Organization Member by winning a simple majority vote.
+- The term of the Organization Membership：There is no limit for the term of the organization membership as long as the organization member carries out their duties as an organization member.
+
+An organization member can become a TSC board member. As described before, a board member must be nominated by an existing board member, and win a simple majority vote from existing board members.
+
+## Withdrawing from the organization member ##
+The organization member may withdraw at any time. Existing TSC Board members are entitled to remove the organization member who fails to perform their duties or violates regulations through voting.
+- Voluntary withdrawal: The organization member may withdraw by sending an email to TSC Board members or submitting the PR on GitHub.
+- Passive withdrawal: If an organization member fails to perform their duties or violates regulations, the organization member will be removed by a simple majority vote from TSC Board members.
+
+# Special Interest Groups(SIGs) #
+Special Interest Groups (SIGs) are sustained and open teams in the open source community that focus on a specific technical or specialist area or areas. The team achieves specific delivery targets through regular tasks and activities. A SIG is open and transparent and welcomes developers to join and contribute. SIGs can be initiated by TSC members or Organization Members. Members of a SIG are recruited from the community. SIGs can cover a wide range of research solutions, technologies and applications related to federated learning or privacy computing.
+
+## SIG creation process ##
+- The SIG initiator invites other like-minded people to start the SIG together through the mailing list provided by the community.
+- The SIG initiator submits an application to the TSC for the starting of the SIG. The SIG’s objectives, organizational structure and other relevant information should be submitted with the application. 1-2 people should be nominated as the person in charge.
+- Voting rule: The SIG will be formally established by a vote of the existing TSC Board members, with more than 2/3 of the votes casted.
+- The first 3 months after the forming of the SIG is the trial period. During the trial period, the SIG should prepare and recruit contributors, and recruit at least 3 companies as participants;
+- At the end of the trial peroid, the SIG is required to report to the TSC on the results of the trial period, including the content of outputs and the active status of members. The TSC will then vote on whether the SIG will formally enter the operational phase. If the number of votes exceeds 1/2, the trial SIG will be approved to officially enter the operational phase, otherwise it will remain in the trial phase.
+- The fully operational SIG shall report the work progress to TSC regularly (quarterly).
+
+## SIG Dissolution Process ##
+The SIG leader should organize regular meetings and discussion of relevant task progress among the members, who should in principle meet at least once per quarter. If the SIG is unable to organize activities with a certain number of participants on a regular basis or is unable to fulfil its organizational management responsibilities, the TSC may archive the projects it has developed and, if appropriate, have it dissolved.
+- If there is no activity for 3 months or more, the SIG should be dissolved. At this point the SIG can be treated as a trial SIG as mentioned above. The SIG can be reactivated following the "trial - fully operated" procedure to avoid dissolution.
+- If there is no activity for 6 months or more, the SIG must be dissolved. The community will archive the projects developed by the SIG and may reactivate them when a new SIG is formed.
 
 # Decision making and voting #
 - The project aims to operate as a consensus-based community, and decisions are built on the agreement reached by TSC members. Proposals and ideas for agreement can either be submitted via a GitHub issue or PR, or by sending an email to [FedAI-maintainers@groups.io](https://groups.io/g/FedAI-maintainers).
