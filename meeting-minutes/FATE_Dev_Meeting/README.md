@@ -6,8 +6,13 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 **Chair:** Henry Zhang  
 **Members:** Dylan Fan, Xiaolin Li, Layne Peng, Jarvis Zeng, Junxue Zhang, Yongkai Zhou  
 
-  
-  
+<BR>
+[Project proposals](https://github.com/FederatedAI/FATE-Community/tree/master/proposal)
+
+[Development Process](https://github.com/FederatedAI/FATE-Community/blob/master/FederatedAI_PROJECT_PROCESS_GUIDELINE.md)
+
+ 
+
 **Documents**
   
 [Proposals](https://github.com/FederatedAI/FATE-Community/tree/master/proposal)
@@ -24,10 +29,16 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 [KubeFATE Project Dashboard](https://github.com/orgs/FederatedAI/projects/5/views/1)
 
 <BR>
-
   
 **Meeting Minutes:**
 
+[August 25, 2022](FATEDevMeeting20220825.pdf) 
+
+[August 04, 2022](FATEDevMeeting20220804.pdf) 
+
+[July 14, 2022](FATEDevMeeting20220714.pdf) 
+  
+[June 30, 2022](FATEDevMeeting20220630.pdf)  
 
 [June 16, 2022](FATEDevMeeting20220616.pdf) 
   
@@ -47,12 +58,10 @@ for the FATE project. It is under the leadership of FATE TSC Board. The current 
 
 [Feb 10, 2022](FATEDevMeeting20220210.pdf)
   
-  
 **Meeting Schedule:**
 
-June 30, 2022
+September 8, 2022
 
-July 14, 2022
+September 22, 2022
 
-
-
+ 
