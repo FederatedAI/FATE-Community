@@ -36,6 +36,18 @@ Along with the training and distributing of the Federated Learning model, the fu
    1) __Black-box verification function__ Fig. 2 (②): This function is not needed to access model parameters and internal structures, so we do not need to provide additional APIs, and users can verify through the general inference API using the own trigger dataset. 
    2) __White-box verification function__ Fig. 2 (③): We need to implement an API for users to open the model parameters and structure and verify whether the model parameters are embedded with a given "watermark".
 
+The implementation detail of the proposed FedIPR in FATE as flow:
+<p align="center" content="Figure 4: Implementation in FATE" >
+  <img src="images/fedipr/fig7.png" width="600" content="Figure 3: FedIPR Architecture">
+</p>
+<div align="center">Figure 2: Implementation of FedIPR in FATE (the part in red box)</div>
+
+1) Add a Sign loss for white-box embedding in the loss module (the implementation detail: [cite](https://github.com/purp1eHaze/FedIPR/blob/master/models/losses/sign_loss.py)).
+
+2) Add a passport layer for white-box embedding in the model_zoo module (the implementation detail: [cite](https://github.com/purp1eHaze/FedIPR/blob/master/models/layers/passportconv2d_private.py)).
+3) The FedIPR training process implemented in the trainer module (the implementation detail: [cite](https://github.com/purp1eHaze/FedIPR/blob/master/main_fedIPR.py)).
+
+
 # Non-Goals #
 [Anything explicitly not covered by the proposed change.]
 
