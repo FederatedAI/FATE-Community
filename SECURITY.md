@@ -10,7 +10,7 @@ The community maintains the LTS release and the latest 2 major releases. Each ma
 ## Reporting a Vulnerability ##
 We thank all community members and users who report vulnerabilities to the FATE open-source community. The FATE SRC will thoroughly investigate all reported vulnerabilities.
 ### Private Disclosure Process ###
-All confirmed or suspected security vulnerabilities shall be reported privately to the FATE SRC to minimize attacks on FATE's current users before remediation. If you wish to notify the SRC of a vulnerability, you may send an email to FATE-security @groups.io so that we can respond and eliminate the issue as soon as possible.
+All confirmed or suspected security vulnerabilities shall be reported privately to the FATE SRC to minimize attacks on FATE's current users before remediation. If you wish to notify the SRC of a vulnerability, you may send an email to FATE-security @groups.io or fate_security @groups.163.com so that we can respond and eliminate the issue as soon as possible.
 Important: To protect the user community, do not post security vulnerabilities on GitHub or other public media.
 
 **Recommended Vulnerability Reporting Format**
@@ -46,7 +46,7 @@ After receiving the vulnerability report, the FATE SRC will respond to the vulne
 5. Public disclosure process: SRC will issue a public announcement to the FATE community through GitHub website to guide FATE users to learn about the vulnerability and obtain a patched version. SRC will also announce the mitigation measures that users can take until they can apply patches to their FATE services.
 
 ## Mailing list ##
-Security issues can be reported to the FATE SRC by sending email to FATE-security @groups.io. The FATE SRC will discuss security issues and patching methods privately via this email group before disclosure.
+Security issues can be reported to the FATE SRC by sending email to FATE-security @groups.io or fate_security @groups.163.com. The FATE SRC will discuss security issues and patching methods privately via this email group before disclosure.
 
 ## Limitation of Liability ##
 The FATE community pays high attention to the vulnerabilities that impair the confidentiality and integrity of user data. The FATE community takes all reported, potential, and suspected vulnerabilities seriously and will investigate them promptly.
