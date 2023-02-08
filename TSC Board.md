@@ -6,7 +6,7 @@ responsibilities.
 ## TSC Chair ##
 | Name | Term of office        |
 | ------------ | --------------------- |
-| Qiang Yang      | 2021.12.10~2022.12.09 |
+| Qiang Yang      | 2022.12.10~2023.12.09 |
 
 ## Honorable Chair ##
 | Name | Affiliation	   |
