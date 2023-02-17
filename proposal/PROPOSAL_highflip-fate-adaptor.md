@@ -1,4 +1,4 @@
-# highflip-fate-adapter Proposal
+# highflip-fate-adaptor Proposal
 
 Author: Chen Zhiyu
 
