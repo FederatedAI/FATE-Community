@@ -15,7 +15,7 @@ HIGHFLIP can be applied in two scenarios: proxy scenario and extension scenarioï
 
 THE HIGHFLIP server is daynamically extensible plugin system, and it's plugin named adapter. Any federated learning platform manufacturer can write adapter used by highflip server to provide an industry-recognized interface.
 
-![img.png](images/9340a488-b0d2-11ed-8c0f-b3660ec3a9e0.png)
+![img.png](images/highflip/fate_adapter.drawio.png)
 
 
 ## 2.Why adapt HIGHFLIP
