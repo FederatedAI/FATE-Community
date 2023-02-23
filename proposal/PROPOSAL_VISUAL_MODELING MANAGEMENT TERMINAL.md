@@ -5,6 +5,7 @@ Issue: [FATE/issues/3893](https://github.com/FederatedAI/FATE/issues/3893)
 
 # Abstract #
 This proposal describes a visual modeling manager based on Java and Vue implementation, which enables users to use FATE algorithms for federated modeling by dragging and dropping flow charts. In addition, the project also includes other management functions, such as participant management, data source management, training task management, model management, forecasting, modeling process results viewing, etc
+
 # Background #
 Is rich in the FATE of the learning algorithm, can support a variety of federal model training, but for the user's entry is higher, are not so friendly to the user experience, we are always in the process of training to adjust model parameters so that the observation model are the training results meet expectations, with the introduction of the visualized modeling process of drag drag type, Support the independent operation of each algorithm and result confirmation in the process of modeling, and facilitate the management of each participant, clear the use of data samples, to ensure that data samples are not abused, reduce the access threshold of users, and optimize user experience.
 
@@ -13,7 +14,7 @@ Our suggestion is to achieve this by creating a Portal project, which is a web s
 The overall structure diagram is as follows:
 
 <div style="text-align:center">
-<img src="./images/fate-portal.png"  alt="" width="1000"/>
+<img src="./images/fate-portal-v.png"  alt="" width="1000"/>
 </div>
 
 The central management node fml_manager depends on https://github.com/FederatedAI/FedLCM/tree/main/fml-manager
