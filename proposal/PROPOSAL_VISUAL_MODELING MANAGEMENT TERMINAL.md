@@ -45,3 +45,5 @@ We will implement the first version of the service, including the front UI and b
 
 # Open issues (if applicable) #
 N/A
+
+Project will create a separated repository in FederatedAI org, and named "FATE-Site-Portal-Java". 
