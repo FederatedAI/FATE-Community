@@ -37,7 +37,7 @@ Although preserving data privacy, these cryptographic operations also cause a dr
 
 # Proposal #
 The architecture of our proposal is shown as follows and we mainly introduce the most important two parts: hardware acceleration library and heterogenous calculation functions.
-![Architecture](./architecture.jpg)
+![Architecture](./images/architecture.jpg)
 
 ## Hardware Acceleration Library ##
 The acceleration library is a well-developed SDK which implements ciphergraphic operations mentioned above with different hardware, including GPU, FPGA, etc. The library is usually developed with Python and C/C++ language and provides several Python APIs for different operations. Once an API is called, it receives the input data (like ciphertext, keys, ciphertext bitwidth, batch size and target device) and sends them to the hardware devices. The devices are then invoked to execute corresponding operations. After calculation, the output data is sent back or stored in destination memory address by the library. 
