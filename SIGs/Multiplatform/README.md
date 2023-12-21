@@ -19,4 +19,5 @@
 | GAO Feng       | China Unicom Digital Technology   | Privacy-Preserving Computing，MPC, Federated Learning | https://github.com/reacher1130|
 | ZHANG Ning       | China Unicom Digital Technology   | Privacy-Preserving Computing，MPC   | https://github.com/zhangning2222 |
 | BI Jianfeng       | ChinaMobile   | Machine Learning, Federated Learning    | https://github.com/JeffyBeh |
+| XIE Yixing       | GRG information Security Technology   | Privacy-Preserving Computing，MPC，FederatedLearning    |  |
 
