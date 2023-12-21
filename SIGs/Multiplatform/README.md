@@ -10,7 +10,7 @@
 
 ### FATE SIG Multiplatform Members
 #### Chair: YUAN Zhiyong
-#### Co-Chair: Dylan
+#### Co-Chair: Dylan FAN
 | Name               | Affline    | Research Interest              | Links                      |
 |--------------------|------------|--------------------------------| -------------------------- |
 | YUAN Zhiyong       | AsiaInfo   | Federated Learning, MPC, LLM   | https://github.com/yuanzhiyong |
