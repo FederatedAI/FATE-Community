@@ -17,7 +17,7 @@
 | Dylan FAN    | WeBank             | Machine Learning, Deep Learning, Federated Learning | https://github.com/dylan-fan |
 | YAO Yunfei         | AsiaInfo   | Cloud Native, Federated Learning | https://github.com/yyf1986 |
 | GAO Feng       | China Unicom Digital Technology   | Privacy-Preserving Computing，MPC, Federated Learning | https://github.com/reacher1130|
-| ZHANG Ning       | China Unicom Digital Technology   | Privacy-Preserving Computing，MPC   | https://github.com/zhangning2222 |
+| YE Huijie       | China Unicom Digital Technology   | Cloud Native，Privacy-Preserving Computing，MPC   | https://github.com/yakumioto |
 | BI Jianfeng       | ChinaMobile   | Machine Learning, Federated Learning    | https://github.com/JeffyBeh |
 | XIE Yixing       | GRG information Security Technology   | Privacy-Preserving Computing，MPC，FederatedLearning    |  |
 
